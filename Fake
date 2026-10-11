@@ -1,0 +1,2 @@
+local BASE = "https://raw.githubusercontent.com/crazy/???/refs/heads/main/Scripts/"
+local DISCORD = "nodiscord"
